@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "eb70c0cf06bf665e6ea7746a",
+  "owner": "bpqdvaagak",
+  "repo": "page-77f49f38ca99a9ea22971eb6",
+  "title": "比奇堡",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "77f49f38ca99a9ea22971eb6",
+      "a": "比奇堡",
+      "b": "小火箭节点",
+      "entity": "比奇堡",
+      "brand": "比奇堡",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "bf85306ce031f98799814c8ae857f53682dfcb037ba70ccf3cf9f677b43c7fb4",
+      "content": {
+        "primary_entity": "比奇堡",
+        "keyword1": "比奇堡",
+        "keyword2": "小火箭节点",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备类型选择客户端，按文档导入订阅链接即可开始使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐，导入订阅，即刻开启流畅连接。",
+          "AI_CLOSING_TITLE": "开始使用比奇堡",
+          "AI_DESCRIPTION": "，比奇堡提供基础版、旗舰版与团队版三档选择，流量从每月 100GB 到 1000GB 不等，设备数覆盖 3 台至 20 台。旗舰版支持 5 台设备同时在线，配 IPLC 专线优化游戏与流媒体体验；团队版则面向多设备协同场景，支持企业定制路由。按年付费可节省两个月费用，适合稳定使用的用户。",
+          "AI_FEATURES_INTRO": "从套餐对比到客户端配置，三步完成比奇堡订阅设置。",
+          "AI_FEATURES_TITLE": "比奇堡功能速览",
+          "AI_FEATURE_TEXT_1": "基础版适合单人轻量使用，旗舰版在流量和设备数上更为宽裕。",
+          "AI_FEATURE_TEXT_2": "从手机到电脑再到路由器，按设备系统选择对应客户端导入订阅。",
+          "AI_FEATURE_TEXT_3": "月付试水灵活，年付折算后节省约两个月费用，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "套餐匹配需求",
+          "AI_FEATURE_TITLE_2": "设备对应客户端",
+          "AI_FEATURE_TITLE_3": "周期付费选择",
+          "AI_GUIDE_INTRO": "从选择服务到完成配置，三个步骤即可开始使用。",
+          "AI_GUIDE_TITLE": "使用指南",
+          "AI_HERO_INTRO": "比奇堡提供多档海外加速订阅方案，覆盖流量、设备数与线路类型，适合个人与团队按需选择。",
+          "AI_HERO_SUBTITLE": "多档套餐，灵活加速",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "全节点流媒体解锁加持",
+          "AI_HIGHLIGHT_3": "按月或按年灵活付费",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，按年付分别仅需 ¥150、¥350 与 ¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量需求，在基础版、旗舰版或团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认设备系统是否在客户端支持列表内，并留意同时在线设备数限制。",
+          "AI_STEP_TEXT_3": "参照所选客户端的订阅导入文档，粘贴链接并更新节点列表。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "查看设备适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "比奇堡加速方案",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、套餐升级与付费周期。",
+          "AI_FAQ_QUESTION_1": "比奇堡套餐可以中途升级吗？",
+          "AI_FAQ_ANSWER_1": "可以，在账户内选择更高版本套餐，补足差价后新版本权益即时生效，剩余周期按比例折算。",
+          "AI_FAQ_QUESTION_2": "同时在线设备数超限会怎样？",
+          "AI_FAQ_ANSWER_2": "超出套餐上限时，新设备可能无法连接，需先下线已有设备或升级到支持更多设备的版本。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "功能与节点相同，年付价格更低。基础版年付150元、旗舰版350元、团队版850元，按月订阅则分别15元、35元和85元。",
+          "AI_FAQ_QUESTION_4": "订阅导入后连不上怎么办？",
+          "AI_FAQ_ANSWER_4": "先检查订阅是否过期，再确认客户端版本与节点选择是否正确，可尝试切换节点或重新导入订阅。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月1000GB流量、支持20台设备，并提供VIP高带宽节点与定制路由，适合小型团队多设备协作。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "18a9649b5074299584904fb7431b95fea5ede1e3d1715a47d840b5783adc253e",
+    "sitemap.xml": "b962d1647c2309756651c76d81b79e516f06706d7a6ae6509590385d7ee254f5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "9d543d4745657d0192ffe37b4ebf843eda3df2d897dddac18324e25ef156b37f"
+}
